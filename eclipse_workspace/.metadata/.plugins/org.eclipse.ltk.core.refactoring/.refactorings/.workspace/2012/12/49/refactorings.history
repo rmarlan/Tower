@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ArdunioReceiveData&apos; to &apos;ArduinoReceiveData&apos;&#x0A;- Original element: &apos;ArdunioReceiveData&apos;&#x0A;- Renamed element: &apos;ArdunioReceiveData&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ArdunioReceiveData&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ArdunioReceiveData" name="ArduinoReceiveData" references="true" stamp="1354773721177" version="1.0"/>
+</session>
